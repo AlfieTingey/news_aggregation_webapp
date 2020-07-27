@@ -1,0 +1,2 @@
+# news_aggregation_webapp
+I created a news aggregation web application such that users can sign up and partake in many different functionalities of the web application. The functionalities include: viewing news by category; generating topics for news each day using ML algorithms and viewing the news by topic; a recommender system that recommends news articles to users based on their preference; and a social media aspect to the web application where users can interact with one another. I have included screenshots in the repository to show what the web application looks like. 
